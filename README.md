@@ -1,1 +1,1 @@
-# fast-go
+# fastx
